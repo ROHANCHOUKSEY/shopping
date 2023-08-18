@@ -1,0 +1,10 @@
+.hide{
+    display: none
+}
+
+.quantity{
+    position: relative;
+    color: black;
+    font-weight: 500;
+    bottom: 10px;
+}
